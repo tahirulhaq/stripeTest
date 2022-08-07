@@ -1,5 +1,8 @@
 # stripeTest
-
+This project is all about integrating stripe payments in your django project
+Contains both types of stripe integrations:
+1) in built checkout
+2) Custom Payment Form
 
 > To generate stripe webhook key Stripe CLI
 
