@@ -4,6 +4,10 @@ Contains both types of stripe integrations:
 1) in built checkout
 2) Custom Payment Form
 
+> Stripe Configuration
+https://testdriven.io/blog/django-stripe-tutorial/
+
+
 > To generate stripe webhook key Stripe CLI
 
 https://stripe.com/docs/stripe-cli#install
